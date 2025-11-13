@@ -1,0 +1,12 @@
+# FlyTerminalia curated paper DOIs
+# Format: short_label: DOI
+
+paper1: 10.1016/j.cub.2024.09.073
+paper2: 10.1080/19336934.2019.1653733
+paper3: 10.1534/g3.119.400788
+paper4: 10.1080/19336934.2022.2058309
+paper5: 10.1002/jez.b.23113
+paper6: 10.3389/fcell.2024.1349275
+paper7: 10.1186/s12862-022-02046-1
+paper8: 10.1126/sciadv.adt7825
+paper9: 10.1093/genetics/iyaf221
